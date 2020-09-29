@@ -1,3 +1,249 @@
 [submodule "applications/terraform-azurerm-print-server"]
 	path = applications/terraform-azurerm-print-server
 	url = https://github.com/AirWalk-Digital/terraform-azurerm-print-server
+[submodule "terraform-azurerm-print-server"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-print-server.git
+	path = common/azure/terraform-azurerm-print-server
+[submodule "terraform-azure-letsencrypt"]
+	url = git@github.com:AirWalk-Digital/terraform-azure-letsencrypt.git
+	path = common/azure/terraform-azure-letsencrypt
+[submodule "terraform-azurerm-dns-zone"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-dns-zone.git
+	path = common/azure/terraform-azurerm-dns-zone
+[submodule "terraform-azurerm-container-registry"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-container-registry.git
+	path = common/azure/terraform-azurerm-container-registry
+[submodule "terraform-azurerm-aks"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-aks.git
+	path = common/azure/terraform-azurerm-aks
+[submodule "terraform-azurerm-loadbalancer"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-loadbalancer.git
+	path = common/azure/terraform-azurerm-loadbalancer
+[submodule "terraform-azurerm-postgres-database"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-postgres-database.git
+	path = common/azure/terraform-azurerm-postgres-database
+[submodule "terraform-azurerm-image-factory"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-image-factory.git
+	path = common/azure/terraform-azurerm-image-factory
+[submodule "terraform-azurerm-app-aadds"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-aadds.git
+	path = common/azure/terraform-azurerm-app-aadds
+[submodule "terraform-azurerm-msteams-voice"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-msteams-voice.git
+	path = common/azure/terraform-azurerm-msteams-voice
+[submodule "terraform-azurerm-policies"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-policies.git
+	path = common/azure/terraform-azurerm-policies
+[submodule "terraform-azurerm-snow-loader"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-snow-loader.git
+	path = common/azure/terraform-azurerm-snow-loader
+[submodule "terraform-azurerm-wvdhostpool"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvdhostpool.git
+	path = common/azure/terraform-azurerm-wvdhostpool
+[submodule "terraform-azurerm-file-share"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-file-share.git
+	path = common/azure/terraform-azurerm-file-share
+[submodule "terraform-azurerm-wvd-rdsh"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvd-rdsh.git
+	path = common/azure/terraform-azurerm-wvd-rdsh
+[submodule "terraform-azurerm-automation-job"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-job.git
+	path = common/azure/terraform-azurerm-automation-job
+[submodule "terraform-azurerm-jitsi-webapp"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-jitsi-webapp.git
+	path = common/azure/terraform-azurerm-jitsi-webapp
+[submodule "terraform-azurerm-privatelink"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-privatelink.git
+	path = common/azure/terraform-azurerm-privatelink
+[submodule "terraform-azurerm-adgroup"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-adgroup.git
+	path = common/azure/terraform-azurerm-adgroup
+[submodule "terraform-azurerm-leavers"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-leavers.git
+	path = common/azure/terraform-azurerm-leavers
+[submodule "terraform-azurerm-appservice"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-appservice.git
+	path = common/azure/terraform-azurerm-appservice
+[submodule "terraform-azurerm-resource-group"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-resource-group.git
+	path = common/azure/terraform-azurerm-resource-group
+[submodule "terraform-azurerm-public-ip"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-public-ip.git
+	path = common/azure/terraform-azurerm-public-ip
+[submodule "terraform-azurerm-snmp-shipper"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-snmp-shipper.git
+	path = common/azure/terraform-azurerm-snmp-shipper
+[submodule "terraform-azurerm-policy-assignment"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-policy-assignment.git
+	path = common/azure/terraform-azurerm-policy-assignment
+[submodule "terraform-azurerm-wvd-keyvault"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvd-keyvault.git
+	path = common/azure/terraform-azurerm-wvd-keyvault
+[submodule "terraform-azurerm-app-wvdnetworking"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-wvdnetworking.git
+	path = common/azure/terraform-azurerm-app-wvdnetworking
+[submodule "terraform-azurerm-documentation"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-documentation.git
+	path = common/azure/terraform-azurerm-documentation
+[submodule "terraform-azurerm-storage-account"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-storage-account.git
+	path = common/azure/terraform-azurerm-storage-account
+[submodule "terraform-azurerm-appregistration"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-appregistration.git
+	path = common/azure/terraform-azurerm-appregistration
+[submodule "terraform-azurerm-devops-pipeline"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-devops-pipeline.git
+	path = common/azure/terraform-azurerm-devops-pipeline
+[submodule "terraform-azurerm-event-hub"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-event-hub.git
+	path = common/azure/terraform-azurerm-event-hub
+[submodule "terraform-azurerm-vnet"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-vnet.git
+	path = common/azure/terraform-azurerm-vnet
+[submodule "terraform-azurerm-alerting"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-alerting.git
+	path = common/azure/terraform-azurerm-alerting
+[submodule "terraform-azurerm-bastion-host"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-bastion-host.git
+	path = common/azure/terraform-azurerm-bastion-host
+[submodule "terraform-azurerm-dns-records"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-dns-records.git
+	path = common/azure/terraform-azurerm-dns-records
+[submodule "terraform-azurerm-network-watcher"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-network-watcher.git
+	path = common/azure/terraform-azurerm-network-watcher
+[submodule "terraform-azurerm-keyvault"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-keyvault.git
+	path = common/azure/terraform-azurerm-keyvault
+[submodule "terraform-azurerm-wvd"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvd.git
+	path = common/azure/terraform-azurerm-wvd
+[submodule "terraform-azurerm-app-ade"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-ade.git
+	path = common/azure/terraform-azurerm-app-ade
+[submodule "terraform-azurerm-automation-account"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-account.git
+	path = common/azure/terraform-azurerm-automation-account
+[submodule "terraform-azurerm-diagnostic-setting"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-diagnostic-setting.git
+	path = common/azure/terraform-azurerm-diagnostic-setting
+[submodule "terraform-azurerm-vnet-gw"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-vnet-gw.git
+	path = common/azure/terraform-azurerm-vnet-gw
+[submodule "terraform-azurerm-event-management"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-event-management.git
+	path = common/azure/terraform-azurerm-event-management
+[submodule "terraform-azurerm-diskencrypt"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-diskencrypt.git
+	path = common/azure/terraform-azurerm-diskencrypt
+[submodule "terraform-azurerm-wvd-automation"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvd-automation.git
+	path = common/azure/terraform-azurerm-wvd-automation
+[submodule "terraform-azure-device-build-tracker"]
+	url = git@github.com:AirWalk-Digital/terraform-azure-device-build-tracker.git
+	path = common/azure/terraform-azure-device-build-tracker
+[submodule "terraform-azure-ad-application-registration"]
+	url = git@github.com:AirWalk-Digital/terraform-azure-ad-application-registration.git
+	path = common/azure/terraform-azure-ad-application-registration
+[submodule "terraform-azurerm-exo-shared-mailboxes"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-exo-shared-mailboxes.git
+	path = common/azure/terraform-azurerm-exo-shared-mailboxes
+[submodule "terraform-azurerm-app-everyone-print"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-everyone-print.git
+	path = common/azure/terraform-azurerm-app-everyone-print
+[submodule "terraform-azurerm-private_link_service"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-private_link_service.git
+	path = common/azure/terraform-azurerm-private_link_service
+[submodule "terraform-azurerm-policy-compliance-api"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-policy-compliance-api.git
+	path = common/azure/terraform-azurerm-policy-compliance-api
+[submodule "terraform-azurerm-jitsi-videobridge-scaler"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-jitsi-videobridge-scaler.git
+	path = common/azure/terraform-azurerm-jitsi-videobridge-scaler
+[submodule "terraform-azurerm-log-analytics-workspaces"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-log-analytics-workspaces.git
+	path = common/azure/terraform-azurerm-log-analytics-workspaces
+[submodule "terraform-azurerm-sharepoint-group-export"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-sharepoint-group-export.git
+	path = common/azure/terraform-azurerm-sharepoint-group-export
+[submodule "terraform-azurerm-linux-virtual-machine"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-linux-virtual-machine.git
+	path = common/azure/terraform-azurerm-linux-virtual-machine
+[submodule "terraform-azurerm-msteams-passbot-handler"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-msteams-passbot-handler.git
+	path = common/azure/terraform-azurerm-msteams-passbot-handler
+[submodule "terraform-azurerm-webapp-upload-pdf"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-webapp-upload-pdf.git
+	path = common/azure/terraform-azurerm-webapp-upload-pdf
+[submodule "terraform-azurerm-snmp-image-creation"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-snmp-image-creation.git
+	path = common/azure/terraform-azurerm-snmp-image-creation
+[submodule "terraform-azurerm-policy-initiative-definition"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-policy-initiative-definition.git
+	path = common/azure/terraform-azurerm-policy-initiative-definition
+[submodule "terraform-azurerm-office365-encryption"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-office365-encryption.git
+	path = common/azure/terraform-azurerm-office365-encryption
+[submodule "terraform-azurerm-network-security-group"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-network-security-group.git
+	path = common/azure/terraform-azurerm-network-security-group
+[submodule "terraform-azurerm-public-ip-prefix"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-public-ip-prefix.git
+	path = common/azure/terraform-azurerm-public-ip-prefix
+[submodule "terraform-azurerm-defender-atp-events"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-defender-atp-events.git
+	path = common/azure/terraform-azurerm-defender-atp-events
+[submodule "terraform-azurerm-naming-policy-definitions"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-naming-policy-definitions.git
+	path = common/azure/terraform-azurerm-naming-policy-definitions
+[submodule "terraform-azurerm-shared-image-gallery"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-shared-image-gallery.git
+	path = common/azure/terraform-azurerm-shared-image-gallery
+[submodule "terraform-azurerm-nsg-flowlogs-connector"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-nsg-flowlogs-connector.git
+	path = common/azure/terraform-azurerm-nsg-flowlogs-connector
+[submodule "terraform-azurerm-http-sidecar-proxy"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-http-sidecar-proxy.git
+	path = common/azure/terraform-azurerm-http-sidecar-proxy
+[submodule "terraform-azurerm-webapp-bot-registration"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-webapp-bot-registration.git
+	path = common/azure/terraform-azurerm-webapp-bot-registration
+[submodule "terraform-azurerm-tag-policy-definitions"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-tag-policy-definitions.git
+	path = common/azure/terraform-azurerm-tag-policy-definitions
+[submodule "terraform-azurerm-jitsi-conference-auth"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-jitsi-conference-auth.git
+	path = common/azure/terraform-azurerm-jitsi-conference-auth
+[submodule "terraform-azurerm-wvd-image-factory"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvd-image-factory.git
+	path = common/azure/terraform-azurerm-wvd-image-factory
+[submodule "terraform-azurerm-jitsi-app-reg"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-jitsi-app-reg.git
+	path = common/azure/terraform-azurerm-jitsi-app-reg
+[submodule "terraform-azurerm-windows-virtual-machine"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-windows-virtual-machine.git
+	path = common/azure/terraform-azurerm-windows-virtual-machine
+[submodule "terraform-azurerm-exo-dist-lists"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-exo-dist-lists.git
+	path = common/azure/terraform-azurerm-exo-dist-lists
+[submodule "terraform-azurerm-private_link_endpoint"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-private_link_endpoint.git
+	path = common/azure/terraform-azurerm-private_link_endpoint
+[submodule "terraform-azurerm-service-principal-api-role-assignment"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-service-principal-api-role-assignment.git
+	path = common/azure/terraform-azurerm-service-principal-api-role-assignment
+[submodule "terraform-azurerm-app-pim-adrole-membership"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-pim-adrole-membership.git
+	path = common/azure/terraform-azurerm-app-pim-adrole-membership
+[submodule "terraform-azurerm-jitsi-jvb-scale-set"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-jitsi-jvb-scale-set.git
+	path = common/azure/terraform-azurerm-jitsi-jvb-scale-set
+[submodule "terraform-azurerm-office365-health-poller"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-office365-health-poller.git
+	path = common/azure/terraform-azurerm-office365-health-poller
+[submodule "terraform-azurerm-linux-vm-scale-set"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-linux-vm-scale-set.git
+	path = common/azure/terraform-azurerm-linux-vm-scale-set
+[submodule "terraform-azurerm-app-k8s-ingress"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-k8s-ingress.git
+	path = common/azure/terraform-azurerm-app-k8s-ingress
