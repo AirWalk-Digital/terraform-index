@@ -247,3 +247,42 @@
 [submodule "terraform-azurerm-app-k8s-ingress"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-k8s-ingress.git
 	path = common/azure/terraform-azurerm-app-k8s-ingress
+[submodule "terraform-azurerm-wvdtenant"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-wvdtenant.git
+	path = common/azure/terraform-azurerm-wvdtenant
+[submodule "terraform-azurerm-webapp-bot"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-webapp-bot.git
+	path = common/azure/terraform-azurerm-webapp-bot
+[submodule "terraform-azurerm-syslog-shipper"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-syslog-shipper.git
+	path = common/azure/terraform-azurerm-syslog-shipper
+[submodule "terraform-azurerm-functionapp"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-functionapp.git
+	path = common/azure/terraform-azurerm-functionapp
+[submodule "terraform-azurerm-aadds"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-aadds.git
+	path = common/azure/terraform-azurerm-aadds
+[submodule "terraform-azurerm-nas-authorization"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-nas-authorization.git
+	path = common/azure/terraform-azurerm-nas-authorization
+[submodule "terraform-azurerm-storage-blob"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-storage-blob.git
+	path = common/azure/terraform-azurerm-storage-blob
+[submodule "terraform-azurerm-netapp-files"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-netapp-files.git
+	path = common/azure/terraform-azurerm-netapp-files
+[submodule "terraform-azurerm-mgmt-groups"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-mgmt-groups.git
+	path = common/azure/terraform-azurerm-mgmt-groups
+[submodule "terraform-azurerm-app-inactive-users"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-inactive-users.git
+	path = common/azure/terraform-azurerm-app-inactive-users
+[submodule "terraform-azurerm-master-data-api"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-master-data-api.git
+	path = common/azure/terraform-azurerm-master-data-api
+[submodule "terraform-azurerm-private_dns_zone"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-private_dns_zone.git
+	path = common/azure/terraform-azurerm-private_dns_zone
+[submodule "terraform-azurerm-recovery-services-vault"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-recovery-services-vault.git
+	path = common/azure/terraform-azurerm-recovery-services-vault
