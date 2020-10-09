@@ -1,9 +1,3 @@
-[submodule "applications/terraform-azurerm-print-server"]
-	path = applications/terraform-azurerm-print-server
-	url = https://github.com/AirWalk-Digital/terraform-azurerm-print-server
-[submodule "terraform-azurerm-print-server"]
-	url = git@github.com:AirWalk-Digital/terraform-azurerm-print-server.git
-	path = common/azure/terraform-azurerm-print-server
 [submodule "terraform-azure-letsencrypt"]
 	url = git@github.com:AirWalk-Digital/terraform-azure-letsencrypt.git
 	path = common/azure/terraform-azure-letsencrypt
