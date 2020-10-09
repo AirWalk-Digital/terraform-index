@@ -298,3 +298,21 @@
 [submodule "terraform-aws-opsworks"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-opsworks.git
 	path = common/aws/terraform-aws-opsworks
+[submodule "terraform-k8s-nginx"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-nginx.git
+	path = common/k8s/terraform-k8s-nginx
+[submodule "terraform-k8s-cert-manager"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-cert-manager.git
+	path = common/k8s/terraform-k8s-cert-manager
+[submodule "terraform-k8s-aks-ad-bindings"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-aks-ad-bindings.git
+	path = common/k8s/terraform-k8s-aks-ad-bindings
+[submodule "terraform-k8s-qualys-container-sensor"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-qualys-container-sensor.git
+	path = common/k8s/terraform-k8s-qualys-container-sensor
+[submodule "terraform-k8s-jitsi-haproxy"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-jitsi-haproxy.git
+	path = common/k8s/terraform-k8s-jitsi-haproxy
+[submodule "terraform-k8s-jitsi-meet"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-jitsi-meet.git
+	path = common/k8s/terraform-k8s-jitsi-meet
