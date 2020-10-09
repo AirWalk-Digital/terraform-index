@@ -286,3 +286,15 @@
 [submodule "terraform-azurerm-app-k8s-ingress"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-k8s-ingress.git
 	path = common/azure/terraform-azurerm-app-k8s-ingress
+[submodule "terraform-aws-codebuild-deploy-tf"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-codebuild-deploy-tf.git
+	path = common/aws/terraform-aws-codebuild-deploy-tf
+[submodule "terraform-aws-elastic-beanstalk"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-elastic-beanstalk.git
+	path = common/aws/terraform-aws-elastic-beanstalk
+[submodule "terraform-aws-eks"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-eks.git
+	path = common/aws/terraform-aws-eks
+[submodule "terraform-aws-opsworks"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-opsworks.git
+	path = common/aws/terraform-aws-opsworks
