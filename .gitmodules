@@ -316,3 +316,6 @@
 [submodule "terraform-k8s-jitsi-meet"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-jitsi-meet.git
 	path = common/k8s/terraform-k8s-jitsi-meet
+[submodule "terraform-azurerm-resource-role-definition"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-resource-role-definition.git
+	path = common/azure/terraform-azurerm-resource-role-definition
