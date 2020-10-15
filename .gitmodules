@@ -319,3 +319,6 @@
 [submodule "terraform-azurerm-resource-role-definition"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-resource-role-definition.git
 	path = common/azure/terraform-azurerm-resource-role-definition
+[submodule "terraform-azurerm-managed-disk"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-managed-disk.git
+	path = common/azure/terraform-azurerm-managed-disk
