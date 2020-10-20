@@ -322,3 +322,6 @@
 [submodule "terraform-azurerm-managed-disk"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-managed-disk.git
 	path = common/azure/terraform-azurerm-managed-disk
+[submodule "terraform-azurerm-disk-encryption-set"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-disk-encryption-set.git
+	path = common/azure/terraform-azurerm-disk-encryption-set
