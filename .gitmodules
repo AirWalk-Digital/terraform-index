@@ -325,3 +325,6 @@
 [submodule "terraform-azurerm-disk-encryption-set"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-disk-encryption-set.git
 	path = common/azure/terraform-azurerm-disk-encryption-set
+[submodule "terraform-azurerm-syslog-image-creation"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-syslog-image-creation.git
+	path = common/azure/terraform-azurerm-syslog-image-creation
