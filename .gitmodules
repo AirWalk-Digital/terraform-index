@@ -328,3 +328,6 @@
 [submodule "terraform-azurerm-syslog-image-creation"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-syslog-image-creation.git
 	path = common/azure/terraform-azurerm-syslog-image-creation
+[submodule "terraform-azurerm-azure-sql"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-azure-sql.git
+	path = common/azure/terraform-azurerm-azure-sql
