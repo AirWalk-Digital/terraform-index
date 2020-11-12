@@ -331,3 +331,6 @@
 [submodule "terraform-azurerm-azure-sql"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-azure-sql.git
 	path = common/azure/terraform-azurerm-azure-sql
+[submodule "terraform-k8s-eck-crds"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-eck-crds.git
+	path = common/k8s/terraform-k8s-eck-crds
