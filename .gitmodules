@@ -334,3 +334,9 @@
 [submodule "terraform-k8s-eck-crds"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-eck-crds.git
 	path = common/k8s/terraform-k8s-eck-crds
+[submodule "terraform-azurerm-app-arm"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-arm.git
+	path = common/azure/terraform-azurerm-app-arm
+[submodule "terraform-azurerm-nat-gateway"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-nat-gateway.git
+	path = common/azure/terraform-azurerm-nat-gateway
