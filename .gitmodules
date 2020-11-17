@@ -340,3 +340,6 @@
 [submodule "terraform-azurerm-nat-gateway"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-nat-gateway.git
 	path = common/azure/terraform-azurerm-nat-gateway
+[submodule "terraform-azurerm-logging-playground"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-logging-playground.git
+	path = common/azure/terraform-azurerm-logging-playground
