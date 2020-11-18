@@ -343,3 +343,6 @@
 [submodule "terraform-azurerm-logging-playground"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-logging-playground.git
 	path = common/azure/terraform-azurerm-logging-playground
+[submodule "terraform-azurerm-functionapp-logger"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-functionapp-logger.git
+	path = common/azure/terraform-azurerm-functionapp-logger
