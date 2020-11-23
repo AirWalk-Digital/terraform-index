@@ -346,3 +346,6 @@
 [submodule "terraform-azurerm-functionapp-logger"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-functionapp-logger.git
 	path = common/azure/terraform-azurerm-functionapp-logger
+[submodule "terraform-azurerm-mssql-vm"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-mssql-vm.git
+	path = common/azure/terraform-azurerm-mssql-vm
