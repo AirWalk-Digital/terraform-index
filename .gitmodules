@@ -349,3 +349,6 @@
 [submodule "terraform-azurerm-mssql-vm"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-mssql-vm.git
 	path = common/azure/terraform-azurerm-mssql-vm
+[submodule "terraform-azurerm-vm-backup"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-vm-backup.git
+	path = common/azure/terraform-azurerm-vm-backup
