@@ -352,3 +352,6 @@
 [submodule "terraform-azurerm-vm-backup"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-vm-backup.git
 	path = common/azure/terraform-azurerm-vm-backup
+[submodule "terraform-aws-ecs-jitsi"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-ecs-jitsi.git
+	path = common/aws/terraform-aws-ecs-jitsi
