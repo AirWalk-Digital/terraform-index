@@ -355,3 +355,9 @@
 [submodule "terraform-aws-ecs-jitsi"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-ecs-jitsi.git
 	path = common/aws/terraform-aws-ecs-jitsi
+[submodule "terraform-azurerm-log-analytics-solution"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-log-analytics-solution.git
+	path = common/azure/terraform-azurerm-log-analytics-solution
+[submodule "terraform-azurerm-log-analytics-linked-service"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-log-analytics-linked-service.git
+	path = common/azure/terraform-azurerm-log-analytics-linked-service
