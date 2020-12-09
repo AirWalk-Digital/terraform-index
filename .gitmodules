@@ -361,3 +361,12 @@
 [submodule "terraform-azurerm-log-analytics-linked-service"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-log-analytics-linked-service.git
 	path = common/azure/terraform-azurerm-log-analytics-linked-service
+[submodule "terraform-azurerm-application-gateway"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-application-gateway.git
+	path = common/azure/terraform-azurerm-application-gateway
+[submodule "terraform-azurerm-aks-testing"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-aks-testing.git
+	path = common/azure/terraform-azurerm-aks-testing
+[submodule "terraform-azurerm-public-dns-zone"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-public-dns-zone.git
+	path = common/azure/terraform-azurerm-public-dns-zone
