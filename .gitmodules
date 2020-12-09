@@ -370,3 +370,6 @@
 [submodule "terraform-azurerm-public-dns-zone"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-public-dns-zone.git
 	path = common/azure/terraform-azurerm-public-dns-zone
+[submodule "terraform-aws-jitsi-admin"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-jitsi-admin.git
+	path = common/aws/terraform-aws-jitsi-admin
