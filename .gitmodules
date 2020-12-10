@@ -373,3 +373,12 @@
 [submodule "terraform-aws-jitsi-admin"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-jitsi-admin.git
 	path = common/aws/terraform-aws-jitsi-admin
+[submodule "terraform-azure-update-management"]
+	url = git@github.com:AirWalk-Digital/terraform-azure-update-management.git
+	path = common/azure/terraform-azure-update-management
+[submodule "terraform-azurerm-automation-runbook"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-runbook.git
+	path = common/azure/terraform-azurerm-automation-runbook
+[submodule "terraform-azurerm-template-deployment-aa-suc"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-template-deployment-aa-suc.git
+	path = common/azure/terraform-azurerm-template-deployment-aa-suc
