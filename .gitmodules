@@ -382,3 +382,6 @@
 [submodule "terraform-azurerm-template-deployment-aa-suc"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-template-deployment-aa-suc.git
 	path = common/azure/terraform-azurerm-template-deployment-aa-suc
+[submodule "terraform-azurerm-automation-variable-string"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-variable-string.git
+	path = common/azure/terraform-azurerm-automation-variable-string
