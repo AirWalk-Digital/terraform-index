@@ -385,3 +385,6 @@
 [submodule "terraform-azurerm-automation-variable-string"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-variable-string.git
 	path = common/azure/terraform-azurerm-automation-variable-string
+[submodule "terraform-azurerm-solution-updates"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-solution-updates.git
+	path = common/azure/terraform-azurerm-solution-updates
