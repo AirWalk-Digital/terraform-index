@@ -388,3 +388,6 @@
 [submodule "terraform-azurerm-solution-updates"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-solution-updates.git
 	path = common/azure/terraform-azurerm-solution-updates
+[submodule "terraform-k8s-azure-secrets-store-csi-driver"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-azure-secrets-store-csi-driver.git
+	path = common/k8s/terraform-k8s-azure-secrets-store-csi-driver
