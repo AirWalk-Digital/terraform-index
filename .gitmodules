@@ -391,3 +391,6 @@
 [submodule "terraform-k8s-azure-secrets-store-csi-driver"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-azure-secrets-store-csi-driver.git
 	path = common/k8s/terraform-k8s-azure-secrets-store-csi-driver
+[submodule "terraform-aws-module-scp"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-module-scp.git
+	path = common/aws/terraform-aws-module-scp
