@@ -394,3 +394,6 @@
 [submodule "terraform-aws-module-scp"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-module-scp.git
 	path = common/aws/terraform-aws-module-scp
+[submodule "terraform-azurerm-automation-runas-account"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-runas-account.git
+	path = common/azure/terraform-azurerm-automation-runas-account
