@@ -397,3 +397,6 @@
 [submodule "terraform-azurerm-automation-runas-account"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-automation-runas-account.git
 	path = common/azure/terraform-azurerm-automation-runas-account
+[submodule "terraform-azurerm-intune"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-intune.git
+	path = common/azure/terraform-azurerm-intune
