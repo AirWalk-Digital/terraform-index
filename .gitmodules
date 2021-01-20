@@ -400,3 +400,6 @@
 [submodule "terraform-azurerm-intune"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-intune.git
 	path = common/azure/terraform-azurerm-intune
+[submodule "terraform-aws-airwalk-module-outbound-proxy"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-airwalk-module-outbound-proxy.git
+	path = common/aws/terraform-aws-airwalk-module-outbound-proxy
