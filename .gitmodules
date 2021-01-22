@@ -403,3 +403,6 @@
 [submodule "terraform-aws-airwalk-module-outbound-proxy"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-airwalk-module-outbound-proxy.git
 	path = common/aws/terraform-aws-airwalk-module-outbound-proxy
+[submodule "terraform-azurerm-update-management-logs"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-update-management-logs.git
+	path = common/azure/terraform-azurerm-update-management-logs
