@@ -406,3 +406,6 @@
 [submodule "terraform-azurerm-update-management-logs"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-update-management-logs.git
 	path = common/azure/terraform-azurerm-update-management-logs
+[submodule "terraform-aws-module-account-vending-machine"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-module-account-vending-machine.git
+	path = common/aws/terraform-aws-module-account-vending-machine
