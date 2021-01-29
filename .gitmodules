@@ -409,3 +409,6 @@
 [submodule "terraform-aws-module-account-vending-machine"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-module-account-vending-machine.git
 	path = common/aws/terraform-aws-module-account-vending-machine
+[submodule "terraform-aws-vpc"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-vpc.git
+	path = common/aws/terraform-aws-vpc
