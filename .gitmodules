@@ -412,3 +412,6 @@
 [submodule "terraform-aws-vpc"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-vpc.git
 	path = common/aws/terraform-aws-vpc
+[submodule "terraform-aws-module-ec2-image-builder"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-module-ec2-image-builder.git
+	path = common/aws/terraform-aws-module-ec2-image-builder
