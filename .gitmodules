@@ -418,3 +418,6 @@
 [submodule "terraform-azurerm-app-primavera-p6"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-primavera-p6.git
 	path = common/azure/terraform-azurerm-app-primavera-p6
+[submodule "terraform-k8s-istio-base"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-istio-base.git
+	path = common/k8s/terraform-k8s-istio-base
