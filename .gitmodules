@@ -415,3 +415,6 @@
 [submodule "terraform-aws-module-ec2-image-builder"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-module-ec2-image-builder.git
 	path = common/aws/terraform-aws-module-ec2-image-builder
+[submodule "terraform-azurerm-app-primavera-p6"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-primavera-p6.git
+	path = common/azure/terraform-azurerm-app-primavera-p6
