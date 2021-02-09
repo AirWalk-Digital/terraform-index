@@ -421,3 +421,6 @@
 [submodule "terraform-k8s-istio-base"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-istio-base.git
 	path = common/k8s/terraform-k8s-istio-base
+[submodule "terraform-k8s-kured"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-kured.git
+	path = common/k8s/terraform-k8s-kured
