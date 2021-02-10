@@ -424,3 +424,6 @@
 [submodule "terraform-k8s-kured"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-kured.git
 	path = common/k8s/terraform-k8s-kured
+[submodule "terraform-azurerm-vmss-kv-cert-extension"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-vmss-kv-cert-extension.git
+	path = common/azure/terraform-azurerm-vmss-kv-cert-extension
