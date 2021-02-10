@@ -427,3 +427,9 @@
 [submodule "terraform-azurerm-vmss-kv-cert-extension"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-vmss-kv-cert-extension.git
 	path = common/azure/terraform-azurerm-vmss-kv-cert-extension
+[submodule "terraform-k8s-istio-discovery"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-istio-discovery.git
+	path = common/k8s/terraform-k8s-istio-discovery
+[submodule "terraform-k8s-istio-gateways-egress"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-istio-gateways-egress.git
+	path = common/k8s/terraform-k8s-istio-gateways-egress
