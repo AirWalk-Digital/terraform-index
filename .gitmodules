@@ -436,3 +436,6 @@
 [submodule "terraform-k8s-aad-pod-identity"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-aad-pod-identity.git
 	path = common/k8s/terraform-k8s-aad-pod-identity
+[submodule "terraform-aws-module-ami-factory"]
+	url = git@github.com:AirWalk-Digital/terraform-aws-module-ami-factory.git
+	path = common/aws/terraform-aws-module-ami-factory
