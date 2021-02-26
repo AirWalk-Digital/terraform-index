@@ -439,3 +439,6 @@
 [submodule "terraform-aws-module-ami-factory"]
 	url = git@github.com:AirWalk-Digital/terraform-aws-module-ami-factory.git
 	path = common/aws/terraform-aws-module-ami-factory
+[submodule "terraform-azurerm-airview"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-airview.git
+	path = common/azure/terraform-azurerm-airview
