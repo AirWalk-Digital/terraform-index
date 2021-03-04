@@ -442,3 +442,6 @@
 [submodule "terraform-azurerm-airview"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-airview.git
 	path = common/azure/terraform-azurerm-airview
+[submodule "terraform-azurerm-app-stop-start-vms"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-stop-start-vms.git
+	path = common/azure/terraform-azurerm-app-stop-start-vms
