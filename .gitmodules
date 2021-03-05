@@ -448,3 +448,9 @@
 [submodule "terraform-azurerm-app-enable-packer-cis-images"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-enable-packer-cis-images.git
 	path = common/azure/terraform-azurerm-app-enable-packer-cis-images
+[submodule "terraform-k8s-istio-egress-traffic-rules"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-istio-egress-traffic-rules.git
+	path = common/k8s/terraform-k8s-istio-egress-traffic-rules
+[submodule "terraform-k8s-azure-application-gateway-ingress"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-azure-application-gateway-ingress.git
+	path = common/k8s/terraform-k8s-azure-application-gateway-ingress
