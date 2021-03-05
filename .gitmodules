@@ -445,3 +445,6 @@
 [submodule "terraform-azurerm-app-stop-start-vms"]
 	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-stop-start-vms.git
 	path = common/azure/terraform-azurerm-app-stop-start-vms
+[submodule "terraform-azurerm-app-enable-packer-cis-images"]
+	url = git@github.com:AirWalk-Digital/terraform-azurerm-app-enable-packer-cis-images.git
+	path = common/azure/terraform-azurerm-app-enable-packer-cis-images
