@@ -454,3 +454,6 @@
 [submodule "terraform-k8s-azure-application-gateway-ingress"]
 	url = git@github.com:AirWalk-Digital/terraform-k8s-azure-application-gateway-ingress.git
 	path = common/k8s/terraform-k8s-azure-application-gateway-ingress
+[submodule "terraform-k8s-istio-operator"]
+	url = git@github.com:AirWalk-Digital/terraform-k8s-istio-operator.git
+	path = common/k8s/terraform-k8s-istio-operator
